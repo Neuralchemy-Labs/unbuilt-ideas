@@ -19,6 +19,7 @@ A public idea library containing:
 - cyber/OSINT concepts
 - automation ideas
 - experimental thoughts
+
 Each idea has its own .md file inside the /ideas folder.
 
 This repo is intentionally simple — a place to store creativity, not code.
