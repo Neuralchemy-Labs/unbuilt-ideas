@@ -32,7 +32,6 @@ Here are the core idea files currently inside `/ideas`:
 
 ### **Updated / New Files**
 - [`ai-resume-generator.md`](ideas/ai-resume-generator.md)
-- [`ai-skill-fingerprint.md`](ideas/ai-skill-fingerprint.md)
 - [`ai-topic-weaver.md`](ideas/ai-topic-weaver.md)
 - [`cloud-cost-optimization-saas.md`](ideas/cloud-cost-optimization-saas.md)
 - [`corrective-rag-agent.md`](ideas/corrective-rag-agent.md)
