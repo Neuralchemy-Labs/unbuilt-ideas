@@ -27,7 +27,7 @@ This repo is intentionally simple — a place to store **creativity, not code**.
 
 ## 🧭 Our Focus
 
-Neuralchemy Labs is building **AI Security, Crypto Intelligence, and Developer Tools**.  
+Neuralchemy Labs is building **Developer Tools, unbuilt ideas , research, next gen vibeCoding**.  
 These ideas are great — but outside our current roadmap. Build them yourself!
 
 ---
