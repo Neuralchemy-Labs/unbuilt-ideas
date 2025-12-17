@@ -43,7 +43,7 @@ This repo is intentionally simple — a place to store **creativity, not code**.
 - [`cloud-cost-optimization-saas.md`](ideas/cloud-cost-optimization-saas.md)
 - [`data-analysis-insights-saas.md`](ideas/data-analysis-insights-saas.md)
 - [`halluguard.md`](ideas/halluguard.md)
-- [`team-decision-facilitator.md`](ideas/team-decision-facilitator.md)
+- [`team-decision-facilitator.md`](ideas/Team-Decision-Facilitator.md)
 - [`zero-touch-devops.md`](ideas/zero-touch-devops.md)
 
 ### **🔐 Cybersecurity & Intelligence**
