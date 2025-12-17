@@ -25,10 +25,6 @@ This repo is intentionally simple — a place to store **creativity, not code**.
 
 ---
 
-## 🧭 Our Focus
-
-Neuralchemy Labs is building **Developer Tools, unbuilt ideas , research, next gen vibeCoding**.  
-These ideas are great — but outside our current roadmap. Build them yourself!
 
 ---
 
@@ -82,7 +78,7 @@ These ideas are great — but outside our current roadmap. Build them yourself!
 
 ## 🆕 Recently Added Ideas
 
-**December 2024:**
+**December 2025:**
 - Agentic AI Security Platform
 - DeepSeek Code Security Auditor
 - AI Web Crawling Framework
@@ -99,7 +95,7 @@ These ideas are great — but outside our current roadmap. Build them yourself!
 
 ## 📚 Ideas by Category
 
-### 🔥 **Hot Right Now (2024-2025 Trends)**
+### 🔥 **Hot Right Now (2025-2026 Trends)**
 Ideas based on current market signals and emerging technologies:
 - **Agentic AI Security Platform** - OWASP just released Top 10 for Agentic AI
 - **DeepSeek Code Security Auditor** - Addresses vulnerabilities in Chinese LLMs
@@ -184,7 +180,7 @@ Each idea includes one of these reasons:
 If you build any of these ideas:
 - ⭐ Star this repo
 - 🔗 Credit [@neuralchemy-labs](https://github.com/neuralchemy-labs)
-- 📧 Let us know what you built: [contact@neuralchemy-labs.com]
+- 📧 Let us know what you built: [neuralchemyai@gmail.com]
 - 💬 Open an issue to share your progress or learnings
 
 We love seeing ideas come to life, even if we're not building them ourselves.
